@@ -1,1 +1,2 @@
-Hola! Bienvenidos a la clase práctica de GPS. Por favor, escriba su nombre completo para registrar su visita
+Hola! Bienvenidos a la clase práctica de GPS. 
+La primera actividad a realizar es clonar este proyecto!!
