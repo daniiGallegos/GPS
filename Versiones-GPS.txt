@@ -1,2 +1,2 @@
 Hola! Bienvenidos a la clase práctica de GPS. 
-La primera actividad a realizar es clonar este proyecto!!
+La primera actividad a realizar es clonar este proyecto!! Suerte
