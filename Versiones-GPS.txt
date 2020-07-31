@@ -6,6 +6,13 @@ La primera actividad a realizar es clonar este proyecto!! Suerte
 _____________________________________________________________________________________________________
 
 
+
+ 
+Camilo Torres
+Francisca Bustos Péndola
+
+
+
 Fredy Moncada
 -Eduardo Fuentes.
 -Diego Inostroza.
@@ -17,3 +24,4 @@ Fredy Moncada
 Sebastian Rohr
 Valentina Barrera Lagos
 Nicolas Venegas
+
