@@ -4,3 +4,7 @@ La primera actividad a realizar es clonar este proyecto!! Suerte
  en la que escriban el nombre de cada integrante (la idea es que cada uno registre su nombre).
  Luego deben subir los cambios al archivo a master (sus nombres quedarán a continuación de este enunciado).
 _____________________________________________________________________________________________________
+
+Integrantes:
+
+- German Mercado
