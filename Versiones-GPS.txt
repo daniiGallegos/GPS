@@ -5,4 +5,6 @@ La primera actividad a realizar es clonar este proyecto!! Suerte
  Luego deben subir los cambios al archivo a master (sus nombres quedarán a continuación de este enunciado).
 _____________________________________________________________________________________________________
 
--Manuel Ponce Jara
+
+- Manuel Ponce Jara
+- Alan Moreno Pando
