@@ -5,6 +5,6 @@ La primera actividad a realizar es clonar este proyecto!! Suerte
  Luego deben subir los cambios al archivo a master (sus nombres quedarán a continuación de este enunciado).
 _____________________________________________________________________________________________________
 
-Integrantes:
+
 -Eduardo Fuentes.
 -Diego Inostroza.
