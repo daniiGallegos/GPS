@@ -1,4 +1,4 @@
-Hola! Bienvenidos a la clase práctica de GPS. 
+Hola! Bienvenidos a la clase práctica de GPS.
 La primera actividad a realizar es clonar este proyecto!! Suerte
 - Actividad de la clase práctica: Cada grupo deberá crear una nueva rama llamada equipo-xxx
  en la que escriban el nombre de cada integrante (la idea es que cada uno registre su nombre).
@@ -13,3 +13,7 @@ Fredy Moncada
 - Alan Moreno Pando
 - Matias Poblete Figueroa
 
+
+Sebastian Rohr
+Valentina Barrera Lagos
+Nicolas Venegas
