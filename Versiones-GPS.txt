@@ -2,5 +2,5 @@ Hola! Bienvenidos a la clase práctica de GPS.
 La primera actividad a realizar es clonar este proyecto!! Suerte
 - Actividad de la clase práctica: Cada grupo deberá crear una nueva rama llamada equipo-xxx
  en la que escriban el nombre de cada integrante (la idea es que cada uno registre su nombre).
- Luego deben subir los cambios del archivo a master (sus nombres quedarán a continuación de este enunciado).
+ Luego deben subir los cambios al archivo a master (sus nombres quedarán a continuación de este enunciado).
 _____________________________________________________________________________________________________
