@@ -1,10 +1,47 @@
+﻿<<<<<<< HEAD
 ﻿Hola! Bienvenidos a la clase práctica de GPS. 
+=======
+Hola! Bienvenidos a la clase práctica de GPS.
+>>>>>>> master
 La primera actividad a realizar es clonar este proyecto!! Suerte
 - Actividad de la clase práctica: Cada grupo deberá crear una nueva rama llamada equipo-xxx
  en la que escriban el nombre de cada integrante (la idea es que cada uno registre su nombre).
  Luego deben subir los cambios al archivo a master (sus nombres quedarán a continuación de este enunciado).
 _____________________________________________________________________________________________________
 
+<<<<<<< HEAD
 Daniel Arellano Gonzalez
-Pablo Contreras (El que detesta github)
+Pablo Contreras
 Cristobal Bravo Chavez
+=======
+
+
+ 
+Camilo Torres
+Francisca Bustos Péndola
+
+
+
+Fredy Moncada
+-Eduardo Fuentes.
+-Diego Inostroza.
+- Manuel Ponce Jara
+- Alan Moreno Pando
+- Matias Poblete Figueroa
+
+
+Sebastian Rohr
+Valentina Barrera Lagos
+Nicolas Venegas
+
+
+- Germán Mercado
+- Esteban Sepulveda
+- Pilar Gonzalez
+
+Tamara Salgado
+Felipe Alarcón
+Juan Fonseca
+Carolina Pereira
+Diego Orrego
+>>>>>>> master
